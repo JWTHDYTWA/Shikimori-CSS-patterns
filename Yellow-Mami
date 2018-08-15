@@ -1,16 +1,4 @@
 body {background: url(https://raw.githubusercontent.com/Warrock3280/Shikimori-CSS-patterns/master/Yellow-Mami.png) fixed; background-size: cover; background-position: -245px}
 .l-page {background: #FFFE}
-.p-profiles-show .b-feedback:after {
-    content: '';
-    display: inline-block;
-    position: fixed;
-    width: 40%;
-    height: 40%;
-    right: -220px;
-    bottom: 0px;
-    background: url(https://thumbs.gfycat.com/DefinitiveOrangeImpala-max-1mb.gif) no-repeat;
-    background-size: contain;
-    z-index: 10;
-    pointer-events: none;
-}
 .subheadline {background: #FD48; border-left: 4px solid #FA38}
+.purple {color: #D62}
